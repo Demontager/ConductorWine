@@ -3,12 +3,13 @@ ConductorWine
 
 Shell script with GUI interface to easly manage Wine versions to run Windows apps on Linux
 
-Author: Airvikar <http://ubuntu-wine.ru>
-Modified and translated by: Demontager <http://nixtalk.com> 
+Author: Airvikar http://ubuntu-wine.ru
+Modified and translated by: Demontager http://nixtalk.com
+
 
 ENG:
 
-<<Script to manage additional Wine versions and his prefixes>>
+Script to manage additional Wine versions and his prefixes
 
 Features: 
 0. Install\choose additional 32-bit Wine versions (from POL archive);
@@ -34,7 +35,9 @@ Any questions, please ask on: http://ubuntu-wine.ru
 
 
 RUS:
-<<Скрипт для работы с дополнительными версиями Wine и их префиксами>>
+
+
+Скрипт для работы с дополнительными версиями Wine и их префиксами
 
 Возможности: 
 0. Установка\выбор дополнительных 32-bit версий Wine (из POL архива);

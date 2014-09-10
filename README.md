@@ -29,14 +29,18 @@ Features:
 6. Creates a folder named Control(wine-version) in predefined prefix and copy below files in it:
 
 winecfg.sh -  Wine configuration;
+
 regedit.sh - register editor;
+
 winetricks.sh -  to launch winetricks;
+
 loader.sh - install\run Windows software.
+
 
 Don't forget to make ConductorWine.sh executable.
 
 Any questions, please ask on: http://ubuntu-wine.ru
-
+==========================================================
 
 
 
@@ -60,9 +64,13 @@ RUS:
 6. Создает в указанном Вами префиксе папку Control(wine-version), в которую будут помещены файлы: 
 
 winecfg.sh - для запуска настройки Wine;
+
 regedit.sh - для запуска настройки реестра;
+
 winetricks.sh - для запуска Winetricks;
+
 loader.sh - для запуска\установки программ Windows.
+
 
 Не забудьте сделать скрипт ConductorWine.sh исполняемым.
 

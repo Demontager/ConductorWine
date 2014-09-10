@@ -40,7 +40,7 @@ loader.sh - install\run Windows software.
 Don't forget to make ConductorWine.sh executable.
 
 Any questions, please ask on: http://ubuntu-wine.ru
-==========================================================
+
 
 
 

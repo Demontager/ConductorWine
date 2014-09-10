@@ -1,7 +1,7 @@
 ConductorWine
 =============
 
-Shell script with GUI interface to easly manage Wine versions to run Windows apps on Linux
+Shell script with GUI interface to easily manage Wine versions to run Windows apps on Linux
 
 Author: Airvikar http://ubuntu-wine.ru
 

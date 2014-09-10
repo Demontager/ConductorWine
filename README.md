@@ -4,7 +4,10 @@ ConductorWine
 Shell script with GUI interface to easly manage Wine versions to run Windows apps on Linux
 
 Author: Airvikar http://ubuntu-wine.ru
+
+
 Modified and translated by: Demontager http://nixtalk.com
+
 
 
 ENG:
@@ -31,6 +34,7 @@ loader.sh - install\run Windows software.
 Don't forget to make ConductorWine.sh executable.
 
 Any questions, please ask on: http://ubuntu-wine.ru
+
 
 
 

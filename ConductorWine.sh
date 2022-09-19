@@ -1,7 +1,7 @@
 #!/bin/bash
 #----------------------------------------------------------
 # Author: Airvikar <http://ubuntu-wine.ru>
-# Modified and translated by: Demontager <http://nixtalk.com> 
+# Modified and translated by: Demontager  
 #----------------------------------------------------------
 
 if ! [ -f /usr/bin/zenity ]
